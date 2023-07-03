@@ -10,6 +10,11 @@ A node-driven infinite piano jukebox based on Magenta's performance-rnn, make to
 
 `Output (MP4)`
 
+
+https://raw.githubusercontent.com/luan007/rnn-jukebox/main/imgs/rnn-out.mov
+
+
+
 ----
 
 # How does it work?
